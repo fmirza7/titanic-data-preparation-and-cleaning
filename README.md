@@ -1,3 +1,5 @@
+> **Note:** This project has been archived and consolidated into my main [DevSynt Data Analyst Internship](https://github.com/fmirza7/DevSynt-Data-Analyst-Internship) repository.
+
 # Titanic Dataset: Data Preparation & Cleaning
 
 ## Overview
